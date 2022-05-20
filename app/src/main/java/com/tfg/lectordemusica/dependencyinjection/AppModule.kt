@@ -1,4 +1,4 @@
-package com.plcoding.spotifycloneyt.dependencyinjection
+package com.tfg.lectordemusica.dependencyinjection
 
 import android.content.Context
 import com.bumptech.glide.Glide

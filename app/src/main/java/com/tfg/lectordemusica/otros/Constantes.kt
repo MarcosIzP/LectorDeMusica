@@ -1,4 +1,4 @@
-package com.plcoding.spotifycloneyt.otros
+package com.tfg.lectordemusica.otros
 
 //Aquí se crearán algunas constantes, que funcionarán como objetos
 

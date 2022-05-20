@@ -1,4 +1,4 @@
-package com.plcoding.spotifycloneyt.data.entities
+package com.tfg.lectordemusica.data.entities
 
 data class Song(
     //En esta clase dclararemos los campos que se corresponden con los que tiene cada canción en la base de datos.
